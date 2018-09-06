@@ -1,0 +1,101 @@
+img {
+  width: 50px;
+}
+#face {
+  width: 400px;
+}
+#eyes1{
+  width:200px;
+  position:absolute;
+  top:200px;
+  left:100px;
+}
+#mouth1{
+  width:100px;
+  position:absolute;
+  bottom:235px;
+  left:150px;
+}
+#nose1{
+  width:50px;
+  position:absolute;
+  top:250px;
+  left:175px;
+}
+#hat{
+  width:300px;
+  position:absolute;
+  top:2px;
+  left:58px;
+}
+#bird{
+  width:100px;
+  position:absolute;
+  top:2px;
+  left:235px;
+}
+#bowtie{
+  width:150px;
+  position:absolute;
+  bottom:160px;
+  left:120px;
+}
+#button {
+  width:100px;
+  position:absolute;
+  background-color:green;
+  top:200px;
+  left:400px;
+}
+
+
+#face1 {
+  width: 400px;
+
+}
+#eyes2 {
+  width:200px;
+  position:absolute;
+  top:200px;
+  left:510px;
+}
+#hair1 {
+  width:325;
+  position:absolute;
+  top:2px;
+  left:450px;
+}
+
+#nose2{
+  width:70px;
+  position:absolute;
+  top:270px;
+  left:570px;
+}
+#mouth2{
+  width:100px;
+  position:absolute;
+  bottom:225px;
+  left:555px;
+}
+
+#moustache{
+  width:100px;
+  position:absolute;
+  top:305px;
+  left:552px;
+}
+#necklace{
+width:250px;
+  position:absolute;
+  bottom:50px;
+  left:490px;
+}
+
+
+
+
+
+
+
+
